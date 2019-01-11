@@ -1,2 +1,2 @@
 # pyBot
-This is a discord chat bot
+This is a discord chat bot for pytorch study group
